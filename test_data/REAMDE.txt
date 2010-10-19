@@ -1,0 +1,8 @@
+File 'lenna_gray.bmp' you can download from:
+  http://sites.google.com/site/rafalpetryniakresearch/software/sample-data
+
+Please put this file in '$PROJECT_DATA/test_data/' directory.
+
+You can find how to prepare test data for image list viewer example in the following files:
+  casimage_selected-readme.txt
+  casimage-selected-rep-readme.txt
